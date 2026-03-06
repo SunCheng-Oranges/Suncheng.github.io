@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-本人目前正在攻读硕士学位，就读于中山大学电子与通信工程学院 <a href='https://sysu-sail.net/'>空间智能实验室</a>，师从 <a href='https://jimmyqing.github.io/'>高庆 副教授</a>。本科毕业于湘潭大学自动化与电子信息学院自动化专业。在学期间，多次获得学业奖学金。研究方向主要包括机器人灵巧操作、运动重定向与具身智能。
-<a href='https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=Rw4JzosAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+本人现就读于湘潭大学自动化与电子信息学院攻读电气工程硕士学位，师从陈智勇副教授。本科毕业于湘潭大学自动化专业，在校期间多次获得学业奖学金。研究方向聚焦于电力电子数字控制领域，主要包括跟网型（GFL）逆变器无源性增强设计、构网型逆变器无源性增强设计、异构跟网系统无源性设计及比例多谐振控制器设计等。
 
 # 🔥 近期新闻|News
 - *2026.01*: &nbsp;🎉🎉 论文《DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control》被ICRA 2026接收。
