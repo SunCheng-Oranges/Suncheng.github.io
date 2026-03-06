@@ -10,7 +10,7 @@ redirect_from:
 本人现就读于湘潭大学自动化与电子信息学院攻读电气工程硕士学位，师从陈智勇副教授。本科毕业于湘潭大学自动化专业，在校期间多次获得学业奖学金。研究方向聚焦于电力电子数字控制领域，主要包括跟网型（GFL）逆变器无源性增强设计、构网型逆变器无源性增强设计、异构跟网系统无源性设计及比例多谐振控制器设计等。
 
 # 🔥 近期新闻|News
-- *2025.09*: &nbsp;🎉🎉 论文《Motion Retargeting Using Graph Neural Network for Vision-Guided Dexterous Robot Teleoperation》被IEEE ICPRE接收（EI会议）。
+- *2025.09*: &nbsp;🎉🎉 论文《Performance Degradation Assessment and Correction Design for Digital-Control Inverters》被IEEE ICPRE接收（EI会议）。
 
 # 📝 专利申请|Patents
 - *2023.07*: 《LCL 逆变器鲁棒控制方法、装置、电子设备、存储介质》  发明专利（实审中）
